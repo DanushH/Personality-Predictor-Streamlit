@@ -84,7 +84,7 @@ streamlit run app.py
 
 ## Deployment
 
-* This app is deployed [here](https://personality-predictor-appgit-6jazht6wia2dkcyij4lxvt.streamlit.app/)
+* This app is deployed [here](https://personality-predictor-appgit-6jazht6wia2dkcyij4lxvt.streamlit.app/) on Streamlit Community Cloud.
 
 <br/>
 
