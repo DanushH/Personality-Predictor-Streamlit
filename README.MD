@@ -43,7 +43,7 @@ An interactive web application built with **Streamlit** that predicts whether a 
 
 ```bash
 
-git  clone  https://github.com/DanushH/Personality-Predictor-Streamlit.git
+git clone https://github.com/DanushH/Personality-Predictor-Streamlit.git
 
 ```
 
@@ -51,7 +51,7 @@ git  clone  https://github.com/DanushH/Personality-Predictor-Streamlit.git
 
 ```bash
 
-pip  install  -r  requirements.txt
+pip install -r requirements.txt
 
 ```
 
@@ -59,7 +59,7 @@ pip  install  -r  requirements.txt
 
 ```bash
 
-streamlit  run  app.py
+streamlit run app.py
 
 ```
 
