@@ -19,25 +19,15 @@ An interactive web application built with **Streamlit** that predicts whether a 
 
 * The model uses the following inputs:
 
-
 | Feature | Description | Range / Type |
-
 | --------------------------- | ------------------------------------ | ------------ |
-
 | `Time_spent_Alone` | Hours spent alone daily | 0–11 (hours) |
-
 | `Stage_fear` | Presence of stage fright | Yes / No |
-
 | `Social_event_attendance` | Frequency of attending social events | 0–10 |
-
 | `Going_outside` | Frequency of going outside | 0–7 |
-
 | `Drained_after_socializing` | Feeling drained after socializing | Yes / No |
-
 | `Friends_circle_size` | Number of close friends | 0–15 |
-
 | `Post_frequency` | Social media posting frequency | 0–10 |
-
 
 
 ## How to Run Locally
