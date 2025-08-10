@@ -1,6 +1,8 @@
 ---
 
-# Personality Prediction App
+<h1 align="center">Personality Prediction App</h1>
+
+## Overview
 
 An interactive web application built with **Streamlit** that predicts whether a person leans more toward **introversion** or **extroversion** based on lifestyle and social habits.
 
