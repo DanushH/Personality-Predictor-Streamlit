@@ -82,6 +82,12 @@ streamlit run app.py
 
 <br/>
 
+## Deployment
+
+* This app is deployed [here](https://personality-predictor-appgit-6jazht6wia2dkcyij4lxvt.streamlit.app/)
+
+<br/>
+
 ## Contributions
 
 * Feel free to fork this repository, make changes, and submit pull requests. Any improvements or fixes are always welcome!
