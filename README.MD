@@ -1,12 +1,9 @@
----
 
 <h1 align="center">Personality Prediction App</h1>
 
 ## Overview
 
 An interactive web application built with **Streamlit** that predicts whether a person leans more toward **introversion** or **extroversion** based on lifestyle and social habits.
-
----
 
 ## Features
 
@@ -18,11 +15,10 @@ An interactive web application built with **Streamlit** that predicts whether a 
 
 * Lightweight, no need for backend setup — deployable anywhere.
 
----
-
 ## Input Features
 
 * The model uses the following inputs:
+
 
 | Feature | Description | Range / Type |
 
@@ -42,7 +38,7 @@ An interactive web application built with **Streamlit** that predicts whether a 
 
 | `Post_frequency` | Social media posting frequency | 0–10 |
 
----
+
 
 ## How to Run Locally
  
@@ -70,7 +66,7 @@ streamlit  run  app.py
 
 ```
 
----
+
 
 ## Tech Stack
 
@@ -84,30 +80,29 @@ streamlit  run  app.py
 
 
 * Find the Kaggle Notebook of the data pre-processing and model training steps here:
+
 [![Kaggle][kaggle-shield]][kaggle-url]
 
----
+
 
 ## Contributions
 
 * Feel free to fork this repository, make changes, and submit pull requests. Any improvements or fixes are always welcome!
 
----
 
 ## Contact
 
 * Contact me on:
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
----
 
 ## License
 
 * This project is licensed under the MIT License — feel free to use and modify.
 
----
 
-<br>
+<br/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
